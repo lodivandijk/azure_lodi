@@ -1,0 +1,5 @@
+Strategy;Type;Ticker;Product;Qty;Open;Close;CCY
+GB_Mining;Long;LON:RIO;Rio Tinto;1;2018-03-28;OPEN;GBP
+GB_Mining;Long;LON:AAL;Anglo American;2;2018-03-28;OPEN;GBP
+FAANGS_Short;Short;NASDAQ:FB;Facebook;7;2018-07-30;OPEN;USD
+FAANGS_Short;Short;NASDAQ:AMZN;Amazon;1;2018-07-30;OPEN;USD
